@@ -1,16 +1,14 @@
-### Hi there 👋
+#自我介绍
+  - 我叫张建文，来自广东肇庆，广东工业大学2021级计算机科学与技术在读
+  - 喜欢看小说，特喜欢看各种各样的闲书，严肃文学到网络小说都看了特多
+  - 重度江南小说爱好者，羽然赛高，绘梨衣赛高，江南老贼必die
+  - 年纪大了，喜爱钓鱼，钓鱼佬永不空军
+以下是一些自我写照
 
+![](https://img2023.cnblogs.com/blog/3271866/202309/3271866-20230904202515211-698611367.jpg)
 
-**Wu-Wei-Lu/Wu-Wei-Lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://img2023.cnblogs.com/blog/3271866/202309/3271866-20230904202523569-1537569147.jpg)
 
-Here are some ideas to get you started:
+![](https://img2023.cnblogs.com/blog/3271866/202309/3271866-20230904202548646-1202176656.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+![](https://img2023.cnblogs.com/blog/3271866/202309/3271866-20230904202644656-1401044403.jpg)
