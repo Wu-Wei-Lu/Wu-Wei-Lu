@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="chaChong:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/chaChong_jar</output-path>
+    <root id="root">
+      <element id="archive" name="chaChong.jar">
+        <element id="module-output" name="chaChong" />
+      </element>
+      <element id="library" level="project" name="Maven: com.hankcs:hanlp:portable-1.7.8" />
+    </root>
+  </artifact>
+</component>
